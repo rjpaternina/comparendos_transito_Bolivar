@@ -18,7 +18,7 @@ El presente proyecto es una iniciativa personal para poner en practica los conoc
     - ¿Existen ciertos tipos de comparendos que son más prevalentes en años específicos?
 
 
-### **Tecnologias a Usar***
+### **Tecnologias a Usar**
 #### Para este proyecto haremos uso del Lenguaje Python y sus bibliotecas incorporadas: 
   -	Numpy
   -	Pandas

@@ -10,9 +10,11 @@ El presente proyecto es una iniciativa personal para poner en practica los conoc
   **a. Tendencias Generales**
     - ¿Cuál es la tendencia general en el número de comparendos año tras año? 
     - ¿Qué comparendos muestran las tendencias más significativas?
+    
   **b. Comparendos Específicos:**
     - ¿Cuáles son los tipos de comparendos más comunes en el período 2019-2023?
     - ¿Hay algún tipo de comparendo que haya tenido un cambio drástico en un año específico?
+    
   **c. Segmentación por Tipo de Comparendo**
     - ¿Qué categorías de comparendos representan el mayor porcentaje del total de comparendos?
     - ¿Existen ciertos tipos de comparendos que son más prevalentes en años específicos?
